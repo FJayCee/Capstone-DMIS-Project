@@ -1,0 +1,3 @@
+2023-05-15:
+Spent the day reading up on Spring Boot framework as I 
+will need some sort of framework to link my front end and back end files.
